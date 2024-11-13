@@ -14,4 +14,4 @@ This is my personal portfolio website where I showcase my projects, skills, and 
 - JavaScript
 
 ## Author
-- [Abdullah Al Mamun]
+- Md. Abdullah Al Mamun
